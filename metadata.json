@@ -1,0 +1,6 @@
+{
+  "name": "PlanAI - แพลนเนอร์การเรียนและการบ้านอัจฉริยะ",
+  "description": "ระบบวิเคราะห์ข้อสอบและการบ้านด้วย AI จากรูปภาพ วิดีโอ หรือเสียง พร้อมวางแผนตารางอ่านหนังสือและทำการบ้านเพื่อสุขภาพที่ดี",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
